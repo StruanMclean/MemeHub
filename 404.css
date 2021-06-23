@@ -1,0 +1,24 @@
+@import "404.html";
+
+body {
+    margin: 0;
+    background-color: rgb(17, 16, 16);
+}
+
+header {
+    background-color: black;
+    height: 1.5in;
+}
+
+#main-logo {
+    padding-top: 0;
+    padding-left: 0.3cm;
+    text-align: top;
+    width: 5cm;
+    height: 1.5in;
+}
+
+.main-404 {
+    padding-left: 0.7cm;
+    color: rgb(252, 142, 17);
+}
