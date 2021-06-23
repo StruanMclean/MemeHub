@@ -7,4 +7,4 @@ Look Normal To You Just Git Clone The
 Github Repo And Add Stuff If You Would Like
 
 # Creaters & Helpers
-Creater - @StruanMclean
+Creater - https://github.com/StruanMclean
