@@ -1,0 +1,35 @@
+@import "video1.html";
+@import "video2.html";
+@import "video3.html";
+
+body {
+    margin: 0;
+    background-color: rgb(17, 16, 16);
+}
+
+header {
+    background-color: black;
+    height: 1.5in;
+}
+
+#main-logo {
+    padding-top: 0;
+    padding-left: 0.3cm;
+    text-align: top;
+    width: 5cm;
+    height: 1.5in;
+}
+
+#video-top-left {
+    padding-left: 0.5cm;
+    padding-top: 0.1in;
+}
+
+.message {
+    margin-top: 0.5cm;
+    margin-left: 0.6cm;
+}
+
+.button-class {
+    margin-top: 0.5cm;
+}
