@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="videos.css"/>
+
+    <head>
+        <meta charset="utf-8">
+        <title>Meme Hub</title>
+        <link rel="shortcut icon" href="logo.ico"/>
+    </head>
+
+    <body>
+        <header>
+            <img id="main-logo" src="main.png" alt="logo"/>
+        </header>
+
+        <main>
+            <video width="400" height="250" controls="" id="video-top-left"><source src="dog.mp4" type="video/mp4"></video>
+        </main>
+
+        <footer>
+            <input type="text" class="message">
+            <button onclick=error() class="button-class">submit</button>
+            <button onclick=home() class="button-class">home</button>
+            <script>
+                function error() {
+                    window.location.href = "404.html";
+                }
+
+                function home() {
+                    window.location.href = "main.html";
+                }
+            </script>
+        </footer>
+    </body>
+</html>
